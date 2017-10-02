@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/prog.dir/main.cpp.o CMakeFiles/prog.dir/octagon.cpp.o CMakeFiles/prog.dir/square.cpp.o CMakeFiles/prog.dir/triangle.cpp.o  -o prog 

@@ -1,0 +1,63 @@
+{
+  "variant": {
+    "label": "Release",
+    "keywordSettings": {
+      "buildType": "release"
+    },
+    "description": "Enable optimizations, omit debug info"
+  },
+  "activeEnvironments": [],
+  "codeModel": {
+    "configurations": [
+      {
+        "name": "Release",
+        "projects": [
+          {
+            "buildDirectory": "/home/michael/Lab/OOP/Lab_1/build",
+            "name": "prog",
+            "sourceDirectory": "/home/michael/Lab/OOP/Lab_1",
+            "targets": [
+              {
+                "artifacts": [
+                  "/home/michael/Lab/OOP/Lab_1/build/prog"
+                ],
+                "buildDirectory": "/home/michael/Lab/OOP/Lab_1/build",
+                "fileGroups": [
+                  {
+                    "compileFlags": "-O3 -DNDEBUG   -Wall -O2 -std=gnu++11",
+                    "includePath": [
+                      {
+                        "path": "/home/michael/Lab/OOP/Lab_1/build"
+                      },
+                      {
+                        "path": "/home/michael/Lab/OOP/Lab_1"
+                      }
+                    ],
+                    "isGenerated": false,
+                    "language": "CXX",
+                    "sources": [
+                      "main.cpp",
+                      "octagon.cpp",
+                      "square.cpp",
+                      "triangle.cpp"
+                    ]
+                  }
+                ],
+                "fullName": "prog",
+                "linkFlags": "-rdynamic",
+                "linkLanguageFlags": "-O3 -DNDEBUG",
+                "linkerLanguage": "CXX",
+                "name": "prog",
+                "sourceDirectory": "/home/michael/Lab/OOP/Lab_1",
+                "type": "EXECUTABLE"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "cookie": "0.5524780726597405",
+    "inReplyTo": "codemodel",
+    "type": "reply"
+  }
+}

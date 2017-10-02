@@ -1,0 +1,3 @@
+/home/michael/Lab/OOP/testTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/michael/Lab/OOP/testTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/michael/Lab/OOP/testTree/cmake-build-debug/CMakeFiles/testTree.dir

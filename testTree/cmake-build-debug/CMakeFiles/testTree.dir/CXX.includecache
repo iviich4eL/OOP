@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michael/Lab/OOP/testTree/main.cpp
+iostream
+-
+iomanip
+-
+tree.h
+/home/michael/Lab/OOP/testTree/tree.h
+
+/home/michael/Lab/OOP/testTree/node.h
+
+/home/michael/Lab/OOP/testTree/tree.h
+node.h
+/home/michael/Lab/OOP/testTree/node.h
+iostream
+-
+

@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/michael/Lab/OOP/Lab_1/build",
+  "command": "/usr/bin/c++   -I/home/michael/Lab/OOP/Lab_1/build -I/home/michael/Lab/OOP/Lab_1  -O3 -DNDEBUG   -Wall -O2 -std=gnu++11 -o CMakeFiles/prog.dir/main.cpp.o -c /home/michael/Lab/OOP/Lab_1/main.cpp",
+  "file": "/home/michael/Lab/OOP/Lab_1/main.cpp"
+},
+{
+  "directory": "/home/michael/Lab/OOP/Lab_1/build",
+  "command": "/usr/bin/c++   -I/home/michael/Lab/OOP/Lab_1/build -I/home/michael/Lab/OOP/Lab_1  -O3 -DNDEBUG   -Wall -O2 -std=gnu++11 -o CMakeFiles/prog.dir/octagon.cpp.o -c /home/michael/Lab/OOP/Lab_1/octagon.cpp",
+  "file": "/home/michael/Lab/OOP/Lab_1/octagon.cpp"
+},
+{
+  "directory": "/home/michael/Lab/OOP/Lab_1/build",
+  "command": "/usr/bin/c++   -I/home/michael/Lab/OOP/Lab_1/build -I/home/michael/Lab/OOP/Lab_1  -O3 -DNDEBUG   -Wall -O2 -std=gnu++11 -o CMakeFiles/prog.dir/square.cpp.o -c /home/michael/Lab/OOP/Lab_1/square.cpp",
+  "file": "/home/michael/Lab/OOP/Lab_1/square.cpp"
+},
+{
+  "directory": "/home/michael/Lab/OOP/Lab_1/build",
+  "command": "/usr/bin/c++   -I/home/michael/Lab/OOP/Lab_1/build -I/home/michael/Lab/OOP/Lab_1  -O3 -DNDEBUG   -Wall -O2 -std=gnu++11 -o CMakeFiles/prog.dir/triangle.cpp.o -c /home/michael/Lab/OOP/Lab_1/triangle.cpp",
+  "file": "/home/michael/Lab/OOP/Lab_1/triangle.cpp"
+}
+]
