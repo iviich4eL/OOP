@@ -7,13 +7,16 @@
 using std::ostream;
 using std::shared_ptr;
 
-typedef Octagon Item;
+class TNode; //forward declaration
+typedef shared_ptr<Figure> Item;
+typedef shared_ptr<TNode> PTNode;
+
 class TNode {
     friend class TBinaryTree;
 private:
     Item item;
-    std::shared_ptr<TNode> right;
-    std::shared_ptr<TNode> left;
+    PTNode right;
+    PTNode left;
 
 public:
     explicit TNode(const Item & i);

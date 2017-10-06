@@ -13,21 +13,20 @@ typedef struct TNodePair{
 
 class TBinaryTree {
 private:
-    shared_ptr<TNode> root;
+    PTNode root;
 
     bool ToLeft(const Item & i1, const Item & i2);
     bool ToRight(const Item & i1, const Item & i2);
-    void AddTNode(shared_ptr<TNode> newTNode, shared_ptr <TNode> root);
-    void WalkTree(shared_ptr<TNode> n, int count);
+    void AddTNode(PTNode newTNode,PTNode root);
+    void WalkTree(PTNode n, int count);
     void PrintTree();
-//    TNodePair SeekItem(const Item & i);
-//    void DeleteTNode(shared_ptr<TNode>,shared_ptr<TNode> parentTNode);
-
+    TNodePair SeekTNode(const Item & figure );
+    void DeleteTNode(PTNode* parentTNode);
 public:
     explicit TBinaryTree();
 
-    bool InsertInTree(Item i);
-//    bool DeleteFromTree(const Item & i);
+    bool InsertInTree(Item && i);
+    bool DeleteFromTree(const Item & figure);
     friend ostream & operator<<(ostream & os, TBinaryTree & Tr);
     virtual ~TBinaryTree();
 };
