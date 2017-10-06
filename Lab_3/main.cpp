@@ -1,7 +1,9 @@
 #include <cstdlib>
 #include <iostream>
+#include "./Headers/Figure.h"
 #include "./Headers/Octagon.h"
 #include "./Headers/Triangle.h"
+#include "./Headers/TSquare.h"
 #include "Headers/TBinaryTree.h"
 #include <memory>
 
@@ -31,30 +33,29 @@ void addToTree(TBinaryTree & tree) {
     std::cin >> answer;
 
     std::cout << "Enter size: ";
-    int number;
+    size_t number;
     std::cin >> number;
     if(answer == "o") {
-        tree.InsertInTree(new Octagon(number));
+        tree.InsertInTree(Item(new Octagon(number)));
     } else if (answer == "s") {
-        tree.InsertInTree(new TSquare(number));
+        tree.InsertInTree(Item(new TSquare(number)));
     } else if (answer == "t") {
-        tree.InsertInTree(new Triangle(number));
+        tree.InsertInTree(Item(new Triangle(number)));
     }
 }
-
 void removeFromTree (TBinaryTree & tree) {
     std::string answer;
     std::cout << "What figure (o,s,t): ";
     std::cin >> answer;
 
     std::cout << "Enter size: ";
-    int number;
+    size_t number;
     std::cin >> number;
     if(answer == "o") {
-        tree.DeleteFromTree(new Octagon(number));
+        tree.DeleteFromTree(Item(new Octagon(number)));
     } else if (answer == "s") {
-        tree.DeleteFromTree(new TSquare(number));
+        tree.DeleteFromTree(Item(new TSquare(number)));
     } else if (answer == "t") {
-        tree.DeleteFromTree(new Triangle(number));
+        tree.DeleteFromTree(Item(new Triangle(number)));
     }
 }

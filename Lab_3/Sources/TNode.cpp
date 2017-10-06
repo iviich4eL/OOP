@@ -1,7 +1,5 @@
 #include "../Headers/TNode.h"
-#include <iostream>
-#include <cmath>
-
+#include "../Headers/Figure.h"
 TNode::TNode(const Item & i) {
     item = i;
     right = left = nullptr;
@@ -20,11 +18,9 @@ TNode & TNode::operator=(const TNode & Tn) {
     }
 }
 TNode::~TNode() {
-//    std::cout << "TNode " << this << " deleted" << std::endl;
-//    delete left;
-//    delete right;
+
 }
 ostream & operator<<(ostream & os, TNode & i ) {
-    os << i.item;
+    ((i.item).get())->Print();
     return os;
 }

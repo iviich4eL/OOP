@@ -7,6 +7,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/michael/Lab/OOP/Lab_3/Sources/Octagon.cpp" "/home/michael/Lab/OOP/Lab_3/cmake-build-debug/CMakeFiles/Lab_2.dir/Sources/Octagon.cpp.o"
   "/home/michael/Lab/OOP/Lab_3/Sources/TBinaryTree.cpp" "/home/michael/Lab/OOP/Lab_3/cmake-build-debug/CMakeFiles/Lab_2.dir/Sources/TBinaryTree.cpp.o"
   "/home/michael/Lab/OOP/Lab_3/Sources/TNode.cpp" "/home/michael/Lab/OOP/Lab_3/cmake-build-debug/CMakeFiles/Lab_2.dir/Sources/TNode.cpp.o"
+  "/home/michael/Lab/OOP/Lab_3/Sources/TSquare.cpp" "/home/michael/Lab/OOP/Lab_3/cmake-build-debug/CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o"
+  "/home/michael/Lab/OOP/Lab_3/Sources/Triangle.cpp" "/home/michael/Lab/OOP/Lab_3/cmake-build-debug/CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o"
   "/home/michael/Lab/OOP/Lab_3/main.cpp" "/home/michael/Lab/OOP/Lab_3/cmake-build-debug/CMakeFiles/Lab_2.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

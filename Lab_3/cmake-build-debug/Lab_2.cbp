@@ -94,6 +94,12 @@
 		<Unit filename="/home/michael/Lab/OOP/Lab_3/Headers/TNode.h">
 			<Option target="Lab_2"/>
 		</Unit>
+		<Unit filename="/home/michael/Lab/OOP/Lab_3/Headers/TSquare.h">
+			<Option target="Lab_2"/>
+		</Unit>
+		<Unit filename="/home/michael/Lab/OOP/Lab_3/Headers/Triangle.h">
+			<Option target="Lab_2"/>
+		</Unit>
 		<Unit filename="/home/michael/Lab/OOP/Lab_3/Sources/Octagon.cpp">
 			<Option target="Lab_2"/>
 		</Unit>
@@ -101,6 +107,12 @@
 			<Option target="Lab_2"/>
 		</Unit>
 		<Unit filename="/home/michael/Lab/OOP/Lab_3/Sources/TNode.cpp">
+			<Option target="Lab_2"/>
+		</Unit>
+		<Unit filename="/home/michael/Lab/OOP/Lab_3/Sources/TSquare.cpp">
+			<Option target="Lab_2"/>
+		</Unit>
+		<Unit filename="/home/michael/Lab/OOP/Lab_3/Sources/Triangle.cpp">
 			<Option target="Lab_2"/>
 		</Unit>
 		<Unit filename="/home/michael/Lab/OOP/Lab_3/main.cpp">

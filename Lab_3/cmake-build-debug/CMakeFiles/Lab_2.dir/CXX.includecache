@@ -16,6 +16,14 @@ iostream
 Figure.h
 /home/michael/Lab/OOP/Lab_3/./Headers/Figure.h
 
+/home/michael/Lab/OOP/Lab_3/./Headers/TSquare.h
+cstdlib
+-
+iostream
+-
+Figure.h
+/home/michael/Lab/OOP/Lab_3/./Headers/Figure.h
+
 /home/michael/Lab/OOP/Lab_3/./Headers/Triangle.h
 cstdlib
 -
@@ -46,11 +54,25 @@ Octagon.h
 memory
 -
 
+/home/michael/Lab/OOP/Lab_3/Headers/TSquare.h
+cstdlib
+-
+iostream
+-
+Figure.h
+/home/michael/Lab/OOP/Lab_3/Headers/Figure.h
+
+/home/michael/Lab/OOP/Lab_3/Headers/Triangle.h
+cstdlib
+-
+iostream
+-
+Figure.h
+/home/michael/Lab/OOP/Lab_3/Headers/Figure.h
+
 /home/michael/Lab/OOP/Lab_3/Sources/Octagon.cpp
 ../Headers/Octagon.h
 /home/michael/Lab/OOP/Lab_3/Headers/Octagon.h
-iostream
--
 cmath
 -
 
@@ -61,6 +83,18 @@ cmath
 /home/michael/Lab/OOP/Lab_3/Sources/TNode.cpp
 ../Headers/TNode.h
 /home/michael/Lab/OOP/Lab_3/Headers/TNode.h
+../Headers/Figure.h
+/home/michael/Lab/OOP/Lab_3/Headers/Figure.h
+
+/home/michael/Lab/OOP/Lab_3/Sources/TSquare.cpp
+../Headers/TSquare.h
+/home/michael/Lab/OOP/Lab_3/Headers/TSquare.h
+cmath
+-
+
+/home/michael/Lab/OOP/Lab_3/Sources/Triangle.cpp
+../Headers/Triangle.h
+/home/michael/Lab/OOP/Lab_3/Headers/Triangle.h
 iostream
 -
 cmath
@@ -71,10 +105,14 @@ cstdlib
 -
 iostream
 -
+./Headers/Figure.h
+/home/michael/Lab/OOP/Lab_3/./Headers/Figure.h
 ./Headers/Octagon.h
 /home/michael/Lab/OOP/Lab_3/./Headers/Octagon.h
 ./Headers/Triangle.h
 /home/michael/Lab/OOP/Lab_3/./Headers/Triangle.h
+./Headers/TSquare.h
+/home/michael/Lab/OOP/Lab_3/./Headers/TSquare.h
 Headers/TBinaryTree.h
 /home/michael/Lab/OOP/Lab_3/Headers/TBinaryTree.h
 memory

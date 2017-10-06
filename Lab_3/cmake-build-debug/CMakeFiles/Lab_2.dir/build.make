@@ -153,12 +153,62 @@ CMakeFiles/Lab_2.dir/Sources/TBinaryTree.cpp.o.provides: CMakeFiles/Lab_2.dir/So
 CMakeFiles/Lab_2.dir/Sources/TBinaryTree.cpp.o.provides.build: CMakeFiles/Lab_2.dir/Sources/TBinaryTree.cpp.o
 
 
+CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o: CMakeFiles/Lab_2.dir/flags.make
+CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o: ../Sources/TSquare.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/michael/Lab/OOP/Lab_3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o -c /home/michael/Lab/OOP/Lab_3/Sources/TSquare.cpp
+
+CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/michael/Lab/OOP/Lab_3/Sources/TSquare.cpp > CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.i
+
+CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/michael/Lab/OOP/Lab_3/Sources/TSquare.cpp -o CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.s
+
+CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o.requires:
+
+.PHONY : CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o.requires
+
+CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o.provides: CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Lab_2.dir/build.make CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o.provides.build
+.PHONY : CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o.provides
+
+CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o.provides.build: CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o
+
+
+CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o: CMakeFiles/Lab_2.dir/flags.make
+CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o: ../Sources/Triangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/michael/Lab/OOP/Lab_3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o -c /home/michael/Lab/OOP/Lab_3/Sources/Triangle.cpp
+
+CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/michael/Lab/OOP/Lab_3/Sources/Triangle.cpp > CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.i
+
+CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/michael/Lab/OOP/Lab_3/Sources/Triangle.cpp -o CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.s
+
+CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o.requires:
+
+.PHONY : CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o.requires
+
+CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o.provides: CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Lab_2.dir/build.make CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o.provides.build
+.PHONY : CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o.provides
+
+CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o.provides.build: CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o
+
+
 # Object files for target Lab_2
 Lab_2_OBJECTS = \
 "CMakeFiles/Lab_2.dir/main.cpp.o" \
 "CMakeFiles/Lab_2.dir/Sources/Octagon.cpp.o" \
 "CMakeFiles/Lab_2.dir/Sources/TNode.cpp.o" \
-"CMakeFiles/Lab_2.dir/Sources/TBinaryTree.cpp.o"
+"CMakeFiles/Lab_2.dir/Sources/TBinaryTree.cpp.o" \
+"CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o" \
+"CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o"
 
 # External object files for target Lab_2
 Lab_2_EXTERNAL_OBJECTS =
@@ -167,9 +217,11 @@ Lab_2: CMakeFiles/Lab_2.dir/main.cpp.o
 Lab_2: CMakeFiles/Lab_2.dir/Sources/Octagon.cpp.o
 Lab_2: CMakeFiles/Lab_2.dir/Sources/TNode.cpp.o
 Lab_2: CMakeFiles/Lab_2.dir/Sources/TBinaryTree.cpp.o
+Lab_2: CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o
+Lab_2: CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o
 Lab_2: CMakeFiles/Lab_2.dir/build.make
 Lab_2: CMakeFiles/Lab_2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/michael/Lab/OOP/Lab_3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Lab_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/michael/Lab/OOP/Lab_3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Lab_2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Lab_2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -181,6 +233,8 @@ CMakeFiles/Lab_2.dir/requires: CMakeFiles/Lab_2.dir/main.cpp.o.requires
 CMakeFiles/Lab_2.dir/requires: CMakeFiles/Lab_2.dir/Sources/Octagon.cpp.o.requires
 CMakeFiles/Lab_2.dir/requires: CMakeFiles/Lab_2.dir/Sources/TNode.cpp.o.requires
 CMakeFiles/Lab_2.dir/requires: CMakeFiles/Lab_2.dir/Sources/TBinaryTree.cpp.o.requires
+CMakeFiles/Lab_2.dir/requires: CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o.requires
+CMakeFiles/Lab_2.dir/requires: CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o.requires
 
 .PHONY : CMakeFiles/Lab_2.dir/requires
 

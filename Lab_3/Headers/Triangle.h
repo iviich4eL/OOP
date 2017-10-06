@@ -14,8 +14,8 @@ private:
     size_t side_a;
 
 public:
-    Triangle();
-    Triangle(size_t i);
+    explicit Triangle();
+    explicit Triangle(size_t i);
     Triangle(const Triangle & tr);
 
     double Square() override;

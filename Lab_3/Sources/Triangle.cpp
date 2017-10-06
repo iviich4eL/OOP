@@ -17,7 +17,7 @@ double Triangle::Square() {
 }
 void Triangle::Print() {
     std::cout << "tr:";
-    std::cout << this->Square();
+    std::cout << *this;
 }
 Triangle::~Triangle() {
 //    std::cout << "Triangle deleted " << std::endl;
@@ -33,7 +33,7 @@ Triangle & Triangle::operator=(const Triangle & tr) {
 }
 
 ostream & operator<<(ostream & os, Triangle & tr) {
-    os << tr.side_a << ' ' << tr.side_a << ' ' << tr.side_a;
+    std::cout << tr.Square();
     return os;
 }
 istream & operator>>(istream & is, Triangle & tr) {

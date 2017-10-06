@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Lab_2.dir/Sources/Octagon.cpp.o"
   "CMakeFiles/Lab_2.dir/Sources/TNode.cpp.o"
   "CMakeFiles/Lab_2.dir/Sources/TBinaryTree.cpp.o"
+  "CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o"
+  "CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o"
   "Lab_2.pdb"
   "Lab_2"
 )

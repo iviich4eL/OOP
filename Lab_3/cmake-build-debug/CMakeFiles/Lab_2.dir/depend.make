@@ -16,8 +16,17 @@ CMakeFiles/Lab_2.dir/Sources/TNode.cpp.o: ../Headers/Octagon.h
 CMakeFiles/Lab_2.dir/Sources/TNode.cpp.o: ../Headers/TNode.h
 CMakeFiles/Lab_2.dir/Sources/TNode.cpp.o: ../Sources/TNode.cpp
 
+CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o: ../Headers/Figure.h
+CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o: ../Headers/TSquare.h
+CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o: ../Sources/TSquare.cpp
+
+CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o: ../Headers/Figure.h
+CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o: ../Headers/Triangle.h
+CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o: ../Sources/Triangle.cpp
+
 CMakeFiles/Lab_2.dir/main.cpp.o: .././Headers/Figure.h
 CMakeFiles/Lab_2.dir/main.cpp.o: .././Headers/Octagon.h
+CMakeFiles/Lab_2.dir/main.cpp.o: .././Headers/TSquare.h
 CMakeFiles/Lab_2.dir/main.cpp.o: .././Headers/Triangle.h
 CMakeFiles/Lab_2.dir/main.cpp.o: ../Headers/Octagon.h
 CMakeFiles/Lab_2.dir/main.cpp.o: ../Headers/TBinaryTree.h

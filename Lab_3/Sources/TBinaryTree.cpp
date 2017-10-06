@@ -53,6 +53,7 @@ void TBinaryTree::AddTNode(PTNode newTNode, PTNode root) {
         return;
     }
 }
+
 void TBinaryTree::WalkTree(PTNode n, int count) {
     if(n == nullptr) return;
     WalkTree(n->right, count+=1);
@@ -93,9 +94,11 @@ bool TBinaryTree::InsertInTree(Item && i) {
     PTNode newNode(new TNode(i));
     if ( root == nullptr) {
         root = newNode;
+        this->PrintTree();
         return true;
     } else {
         AddTNode(newNode, root);
+        this->PrintTree();
         return true;
     }
 }

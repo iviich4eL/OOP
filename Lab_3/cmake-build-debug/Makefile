@@ -204,6 +204,60 @@ Sources/TNode.cpp.s:
 	$(MAKE) -f CMakeFiles/Lab_2.dir/build.make CMakeFiles/Lab_2.dir/Sources/TNode.cpp.s
 .PHONY : Sources/TNode.cpp.s
 
+Sources/TSquare.o: Sources/TSquare.cpp.o
+
+.PHONY : Sources/TSquare.o
+
+# target to build an object file
+Sources/TSquare.cpp.o:
+	$(MAKE) -f CMakeFiles/Lab_2.dir/build.make CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o
+.PHONY : Sources/TSquare.cpp.o
+
+Sources/TSquare.i: Sources/TSquare.cpp.i
+
+.PHONY : Sources/TSquare.i
+
+# target to preprocess a source file
+Sources/TSquare.cpp.i:
+	$(MAKE) -f CMakeFiles/Lab_2.dir/build.make CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.i
+.PHONY : Sources/TSquare.cpp.i
+
+Sources/TSquare.s: Sources/TSquare.cpp.s
+
+.PHONY : Sources/TSquare.s
+
+# target to generate assembly for a file
+Sources/TSquare.cpp.s:
+	$(MAKE) -f CMakeFiles/Lab_2.dir/build.make CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.s
+.PHONY : Sources/TSquare.cpp.s
+
+Sources/Triangle.o: Sources/Triangle.cpp.o
+
+.PHONY : Sources/Triangle.o
+
+# target to build an object file
+Sources/Triangle.cpp.o:
+	$(MAKE) -f CMakeFiles/Lab_2.dir/build.make CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o
+.PHONY : Sources/Triangle.cpp.o
+
+Sources/Triangle.i: Sources/Triangle.cpp.i
+
+.PHONY : Sources/Triangle.i
+
+# target to preprocess a source file
+Sources/Triangle.cpp.i:
+	$(MAKE) -f CMakeFiles/Lab_2.dir/build.make CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.i
+.PHONY : Sources/Triangle.cpp.i
+
+Sources/Triangle.s: Sources/Triangle.cpp.s
+
+.PHONY : Sources/Triangle.s
+
+# target to generate assembly for a file
+Sources/Triangle.cpp.s:
+	$(MAKE) -f CMakeFiles/Lab_2.dir/build.make CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.s
+.PHONY : Sources/Triangle.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -249,6 +303,12 @@ help:
 	@echo "... Sources/TNode.o"
 	@echo "... Sources/TNode.i"
 	@echo "... Sources/TNode.s"
+	@echo "... Sources/TSquare.o"
+	@echo "... Sources/TSquare.i"
+	@echo "... Sources/TSquare.s"
+	@echo "... Sources/Triangle.o"
+	@echo "... Sources/Triangle.i"
+	@echo "... Sources/Triangle.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -1,5 +1,4 @@
 #include "../Headers/Octagon.h"
-#include <iostream>
 #include <cmath>
 
 Octagon::Octagon() : Octagon(0){
@@ -20,7 +19,7 @@ double Octagon::Square() {
 }
 void Octagon::Print() {
     std::cout << "o:";
-    std::cout << this->Square();
+    std::cout << *this;
 }
 Octagon::~Octagon() {
 //        std::cout << this << " octagon deleted " << std::endl;
@@ -37,7 +36,7 @@ Octagon & Octagon::operator=(const Octagon & oct) {
 }
 
 ostream & operator<<(ostream & os, Octagon & oct) {
-    os << oct.side_a;
+    std::cout << oct.Square();
     return os;
 }
 istream & operator>>(istream & is, Octagon & oct) {
