@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lab_2.dir/main.cpp.o CMakeFiles/Lab_2.dir/Sources/Octagon.cpp.o CMakeFiles/Lab_2.dir/Sources/TNode.cpp.o CMakeFiles/Lab_2.dir/Sources/TBinaryTree.cpp.o CMakeFiles/Lab_2.dir/Sources/TSquare.cpp.o CMakeFiles/Lab_2.dir/Sources/Triangle.cpp.o CMakeFiles/Lab_2.dir/Sources/TStack.cpp.o  -o Lab_2 
