@@ -119,6 +119,8 @@ void addToTNTree(TNTree<T> &tree) {
     } else if (number1 > 0){
         tree.Insert(shared_ptr<T>(parentFigure), shared_ptr<T>(insertFigure));
     }
+    insertFigure = nullptr;
+    parentFigure = nullptr;
     std::cout << tree << std::endl;
 }
 

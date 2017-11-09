@@ -87,10 +87,16 @@ bool TNTree<T>::Delete(shared_ptr<T> && deleteFigure) {
     current = FindSame(deleteFigure);
     if (current == nullptr) {
         std::cout << "No such item!" << std::endl;
+        return false;
     } else {
-        current = current->parent;
-        if (current )
-        current->son = current->son->brother;
+        if (current->parent == nullptr) {
+            root = nullptr;
+            return true;
+        } else {
+            current = current->parent;
+            current->son = current->son->brother;
+            return true;
+        }
     }
 }
 

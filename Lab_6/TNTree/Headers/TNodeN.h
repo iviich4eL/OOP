@@ -25,6 +25,7 @@ private:
 
 public:
     explicit TNodeN (const shared_ptr<T> & i);
+
     template <typename K>
     friend ostream & operator<<(ostream & os, TNodeN<K> & i );
 
