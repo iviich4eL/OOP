@@ -45,14 +45,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.43829787">
+    <splitter split-orientation="horizontal" split-proportion="0.46063828">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="TBinaryTree.h" pinned="false" current-in-tab="true">
+          <file leaf-file-name="TBinaryTree.h" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Headers/TBinaryTree.h">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="682">
-                  <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+                <state relative-caret-position="616">
+                  <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
                   <folding>
                     <element signature="e#44#62#0" expanded="true" />
                   </folding>
@@ -63,8 +63,8 @@
           <file leaf-file-name="TStack.h" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Headers/TStack.h">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="484">
-                  <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+                <state relative-caret-position="440">
+                  <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
                   <folding>
                     <element signature="e#139#151#0" expanded="true" />
                   </folding>
@@ -72,11 +72,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="TNode.h" pinned="false" current-in-tab="false">
+          <file leaf-file-name="TNode.h" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Headers/TNode.h">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="660">
-                  <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+                <state relative-caret-position="490">
+                  <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
                   <folding>
                     <element signature="e#33#52#0" expanded="true" />
                     <element signature="e#167#179#0" expanded="true" />
@@ -89,8 +89,8 @@
           <file leaf-file-name="TIterator.h" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Headers/TIterator.h">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="506">
-                  <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+                <state relative-caret-position="484">
+                  <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
@@ -115,22 +115,21 @@
           <file leaf-file-name="TStack.cpp" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Sources/TStack.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="220">
-                  <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <state relative-caret-position="550">
+                  <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
                   <folding>
                     <element signature="e#40#52#0" expanded="true" />
                     <element signature="e#247#259#0" expanded="true" />
-                    <element signature="e#451#481#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="TNode.cpp" pinned="false" current-in-tab="false">
+          <file leaf-file-name="TNode.cpp" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Sources/TNode.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="930">
-                  <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+                <state relative-caret-position="110">
+                  <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
                   <folding>
                     <element signature="e#383#395#0" expanded="true" />
                     <element signature="e#374#419#0" expanded="false" />
@@ -151,17 +150,15 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="TBinaryTree.cpp" pinned="false" current-in-tab="true">
+          <file leaf-file-name="TBinaryTree.cpp" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Sources/TBinaryTree.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="392">
-                  <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+                <state relative-caret-position="3146">
+                  <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
                   <folding>
                     <element signature="e#1891#2181#0" expanded="false" />
                     <element signature="e#2183#2334#0" expanded="false" />
-                    <element signature="e#2336#2875#0" expanded="false" />
                     <element signature="e#3387#3399#0" expanded="true" />
-                    <element signature="e#3378#3905#0" expanded="false" />
                     <element signature="e#3916#3928#0" expanded="true" />
                     <element signature="e#4032#4044#0" expanded="true" />
                     <element signature="e#4149#4161#0" expanded="true" />
@@ -182,12 +179,12 @@
         <option value="$PROJECT_DIR$/Sources/TStack.cpp.cpp" />
         <option value="$PROJECT_DIR$/Headers/TStack.h" />
         <option value="$PROJECT_DIR$/Sources/TStack.cpp" />
-        <option value="$PROJECT_DIR$/Headers/TBinaryTree.h" />
         <option value="$PROJECT_DIR$/Headers/TNode.h" />
-        <option value="$PROJECT_DIR$/Sources/TBinaryTree.cpp" />
         <option value="$PROJECT_DIR$/Sources/TNode.cpp" />
         <option value="$PROJECT_DIR$/Headers/TIterator.h" />
         <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/Headers/TBinaryTree.h" />
+        <option value="$PROJECT_DIR$/Sources/TBinaryTree.cpp" />
       </list>
     </option>
   </component>
@@ -198,10 +195,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="521" />
-    <option name="y" value="-564" />
-    <option name="width" value="1524" />
-    <option name="height" value="1110" />
+    <option name="x" value="12" />
+    <option name="y" value="-384" />
+    <option name="width" value="1263" />
+    <option name="height" value="750" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -282,16 +279,16 @@
       <workItem from="1509125956087" duration="12895000" />
       <workItem from="1509191947774" duration="130000" />
       <workItem from="1509283480107" duration="234000" />
-      <workItem from="1509711735933" duration="1007000" />
+      <workItem from="1509711735933" duration="18761000" />
+      <workItem from="1509825155183" duration="618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44648000" />
+    <option name="totallyTimeSpent" value="63020000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="-25" width="1890" height="1110" extended-state="6" />
-    <editor active="true" />
+    <frame x="12" y="-384" width="1890" height="1110" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10319149" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -377,7 +374,6 @@
           <folding>
             <element signature="e#40#52#0" expanded="true" />
             <element signature="e#247#259#0" expanded="true" />
-            <element signature="e#451#481#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -397,9 +393,7 @@
           <folding>
             <element signature="e#1891#2181#0" expanded="false" />
             <element signature="e#2183#2334#0" expanded="false" />
-            <element signature="e#2336#2875#0" expanded="false" />
             <element signature="e#3387#3399#0" expanded="true" />
-            <element signature="e#3378#3905#0" expanded="false" />
             <element signature="e#3916#3928#0" expanded="true" />
             <element signature="e#4032#4044#0" expanded="true" />
             <element signature="e#4149#4161#0" expanded="true" />
@@ -479,7 +473,6 @@
           <folding>
             <element signature="e#40#52#0" expanded="true" />
             <element signature="e#247#259#0" expanded="true" />
-            <element signature="e#451#481#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -511,9 +504,7 @@
           <folding>
             <element signature="e#1891#2181#0" expanded="false" />
             <element signature="e#2183#2334#0" expanded="false" />
-            <element signature="e#2336#2875#0" expanded="false" />
             <element signature="e#3387#3399#0" expanded="true" />
-            <element signature="e#3378#3905#0" expanded="false" />
             <element signature="e#3916#3928#0" expanded="true" />
             <element signature="e#4032#4044#0" expanded="true" />
             <element signature="e#4149#4161#0" expanded="true" />
@@ -580,7 +571,6 @@
           <folding>
             <element signature="e#40#52#0" expanded="true" />
             <element signature="e#247#259#0" expanded="true" />
-            <element signature="e#451#481#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -612,9 +602,7 @@
           <folding>
             <element signature="e#1891#2181#0" expanded="false" />
             <element signature="e#2183#2334#0" expanded="false" />
-            <element signature="e#2336#2875#0" expanded="false" />
             <element signature="e#3387#3399#0" expanded="true" />
-            <element signature="e#3378#3905#0" expanded="false" />
             <element signature="e#3916#3928#0" expanded="true" />
             <element signature="e#4032#4044#0" expanded="true" />
             <element signature="e#4149#4161#0" expanded="true" />
@@ -681,7 +669,6 @@
           <folding>
             <element signature="e#40#52#0" expanded="true" />
             <element signature="e#247#259#0" expanded="true" />
-            <element signature="e#451#481#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -706,9 +693,7 @@
           <folding>
             <element signature="e#1891#2181#0" expanded="false" />
             <element signature="e#2183#2334#0" expanded="false" />
-            <element signature="e#2336#2875#0" expanded="false" />
             <element signature="e#3387#3399#0" expanded="true" />
-            <element signature="e#3378#3905#0" expanded="false" />
             <element signature="e#3916#3928#0" expanded="true" />
             <element signature="e#4032#4044#0" expanded="true" />
             <element signature="e#4149#4161#0" expanded="true" />
@@ -771,7 +756,6 @@
           <folding>
             <element signature="e#40#52#0" expanded="true" />
             <element signature="e#247#259#0" expanded="true" />
-            <element signature="e#451#481#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -803,9 +787,7 @@
           <folding>
             <element signature="e#1891#2181#0" expanded="false" />
             <element signature="e#2183#2334#0" expanded="false" />
-            <element signature="e#2336#2875#0" expanded="false" />
             <element signature="e#3387#3399#0" expanded="true" />
-            <element signature="e#3378#3905#0" expanded="false" />
             <element signature="e#3916#3928#0" expanded="true" />
             <element signature="e#4032#4044#0" expanded="true" />
             <element signature="e#4149#4161#0" expanded="true" />
@@ -844,19 +826,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sources/TNode.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding>
-            <element signature="e#383#395#0" expanded="true" />
-            <element signature="e#374#419#0" expanded="false" />
-            <element signature="e#430#442#0" expanded="true" />
-            <element signature="e#723#735#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
@@ -867,10 +836,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Headers/TStack.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="e#139#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sources/TStack.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="e#40#52#0" expanded="true" />
+            <element signature="e#247#259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Headers/TBinaryTree.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <element signature="e#44#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sources/TBinaryTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3146">
+          <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+          <folding>
+            <element signature="e#1891#2181#0" expanded="false" />
+            <element signature="e#2183#2334#0" expanded="false" />
+            <element signature="e#3387#3399#0" expanded="true" />
+            <element signature="e#3916#3928#0" expanded="true" />
+            <element signature="e#4032#4044#0" expanded="true" />
+            <element signature="e#4149#4161#0" expanded="true" />
+            <element signature="e#4140#4256#0" expanded="false" />
+            <element signature="e#4258#4391#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Headers/TIterator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Headers/TNode.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="490">
+          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
           <folding>
             <element signature="e#33#52#0" expanded="true" />
             <element signature="e#167#179#0" expanded="true" />
@@ -879,61 +904,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Headers/TIterator.h">
+    <entry file="file://$PROJECT_DIR$/Sources/TNode.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Headers/TStack.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="110">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <element signature="e#139#151#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Headers/TBinaryTree.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-          <folding>
-            <element signature="e#44#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sources/TStack.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#40#52#0" expanded="true" />
-            <element signature="e#247#259#0" expanded="true" />
-            <element signature="e#451#481#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sources/TBinaryTree.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-          <folding>
-            <element signature="e#1891#2181#0" expanded="false" />
-            <element signature="e#2183#2334#0" expanded="false" />
-            <element signature="e#2336#2875#0" expanded="false" />
-            <element signature="e#3387#3399#0" expanded="true" />
-            <element signature="e#3378#3905#0" expanded="false" />
-            <element signature="e#3916#3928#0" expanded="true" />
-            <element signature="e#4032#4044#0" expanded="true" />
-            <element signature="e#4149#4161#0" expanded="true" />
-            <element signature="e#4140#4256#0" expanded="false" />
-            <element signature="e#4258#4391#0" expanded="false" />
+            <element signature="e#383#395#0" expanded="true" />
+            <element signature="e#374#419#0" expanded="false" />
+            <element signature="e#430#442#0" expanded="true" />
+            <element signature="e#723#735#0" expanded="true" />
           </folding>
         </state>
       </provider>
