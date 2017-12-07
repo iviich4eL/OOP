@@ -200,7 +200,4 @@ TBinTree<T>::~TBinTree() {
 //              << " deleted " << std::endl;
 }
 
-//template class TBinTree<Figure>;
-//template class  TIterator<TNodeB<Figure> ,Figure>;
-//template ostream & operator<<(ostream & os, TBinTree<Figure> & Tr);
 #endif /* TBINARYTREE_H */

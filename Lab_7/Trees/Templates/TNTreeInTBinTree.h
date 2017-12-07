@@ -12,9 +12,9 @@ template <typename T>
 class TNTreeInTBinTree : TTree<T> {
 private:
     TBinTree<TNTree<T>> superTree;
-    bool test() {
-        return true;
-    }
+//    bool test() {
+//        return true;
+//    }
 public:
     explicit TNTreeInTBinTree () = default;
     bool Insert(shared_ptr<T> && value) override ;
