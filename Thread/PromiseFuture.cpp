@@ -15,6 +15,7 @@ int main()
     // std::cout << futureObj.get() << std::endl;
     int value = futureObj.get();
     std::cout << value << std::endl;
-    th.join();
+    th.join();typedef  std::function<void(void)> command;
+
     return 0;
 }

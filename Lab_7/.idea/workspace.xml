@@ -49,7 +49,7 @@
           <file leaf-file-name="TTree.h" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Trees/Templates/TTree.h">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="132">
+                <state relative-caret-position="154">
                   <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
                   <folding>
                     <element signature="e#144#156#0" expanded="true" />
@@ -62,7 +62,7 @@
             <entry file="file://$PROJECT_DIR$/Trees/Templates/TNTreeInTBinTree.h">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="498">
-                  <caret line="74" column="29" lean-forward="true" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
+                  <caret line="74" column="29" lean-forward="false" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
                   <folding>
                     <element signature="e#55#74#0" expanded="true" />
                     <element signature="e#149#161#0" expanded="true" />
@@ -126,8 +126,8 @@
           <file leaf-file-name="TNodeN.h" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Trees/Templates/TNodeN.h">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="946">
-                  <caret line="43" column="29" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+                <state relative-caret-position="462">
+                  <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
                   <folding>
                     <element signature="e#1642#1689#0" expanded="false" />
                     <element signature="e#1690#1812#0" expanded="false" />
@@ -146,11 +146,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+          <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/main.cpp">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="396">
-                  <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+                  <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
                   <folding>
                     <element signature="e#342#354#0" expanded="true" />
                     <element signature="e#443#455#0" expanded="true" />
@@ -176,18 +176,18 @@
           <file leaf-file-name="TStack.h" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/TStack/TStack.h">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="352">
+                <state relative-caret-position="374">
                   <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="TNTree.h" pinned="false" current-in-tab="false">
+          <file leaf-file-name="TNTree.h" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Trees/Templates/TNTree.h">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="286">
-                  <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+                <state relative-caret-position="358">
+                  <caret line="55" column="51" lean-forward="false" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
                   <folding>
                     <element signature="e#565#704#0" expanded="false" />
                     <element signature="e#1074#1292#0" expanded="false" />
@@ -278,7 +278,7 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="270" />
+    <option name="x" value="289" />
     <option name="y" value="-549" />
     <option name="width" value="1443" />
     <option name="height" value="1080" />
@@ -428,11 +428,12 @@
       <workItem from="1512494059877" duration="2620000" />
       <workItem from="1512579199271" duration="46000" />
       <workItem from="1512580561756" duration="3859000" />
+      <workItem from="1512712213870" duration="1736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173087000" />
+    <option name="totallyTimeSpent" value="174823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="35" y="-25" width="1890" height="1110" extended-state="6" />
@@ -440,7 +441,6 @@
     <layout>
       <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18670213" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2808765" sideWeight="0.4787234" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3197211" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33665338" sideWeight="0.52446806" order="9" side_tool="true" content_ui="tabs" />
@@ -451,6 +451,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39940238" sideWeight="0.49468085" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2808765" sideWeight="0.4787234" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -651,17 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Trees/Templates/TNodeN.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="43" column="29" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
-          <folding>
-            <element signature="e#1642#1689#0" expanded="false" />
-            <element signature="e#1690#1812#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Lab_8/Trees/Templates/TNodeB.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1364">
@@ -686,31 +676,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Trees/Templates/TNTree.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding>
-            <element signature="e#565#704#0" expanded="false" />
-            <element signature="e#1074#1292#0" expanded="false" />
-            <element signature="e#1293#1494#0" expanded="false" />
-            <element signature="e#1496#1999#0" expanded="false" />
-            <element signature="e#2000#2333#0" expanded="false" />
-            <element signature="e#2344#2356#0" expanded="true" />
-            <element signature="e#2335#4156#0" expanded="false" />
-            <element signature="e#4157#4892#0" expanded="false" />
-            <element signature="e#4893#5049#0" expanded="false" />
-            <element signature="e#5051#5161#0" expanded="false" />
-            <element signature="e#5163#5274#0" expanded="false" />
-            <element signature="e#5277#5392#0" expanded="false" />
-            <element signature="e#5393#5520#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Trees/Templates/TTree.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="154">
           <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding>
             <element signature="e#144#156#0" expanded="true" />
@@ -720,7 +688,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TStack/TStack.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="374">
           <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
           <folding />
         </state>
@@ -729,7 +697,7 @@
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
           <folding>
             <element signature="e#342#354#0" expanded="true" />
             <element signature="e#443#455#0" expanded="true" />
@@ -744,7 +712,7 @@
     <entry file="file://$PROJECT_DIR$/Trees/Templates/TNTreeInTBinTree.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="498">
-          <caret line="74" column="29" lean-forward="true" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
+          <caret line="74" column="29" lean-forward="false" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
           <folding>
             <element signature="e#55#74#0" expanded="true" />
             <element signature="e#149#161#0" expanded="true" />
@@ -756,6 +724,39 @@
             <element signature="e#1826#1838#0" expanded="true" />
             <element signature="e#2129#2141#0" expanded="true" />
             <element signature="e#2120#2187#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/Templates/TNodeN.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#1642#1689#0" expanded="false" />
+            <element signature="e#1690#1812#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/Templates/TNTree.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="55" column="51" lean-forward="false" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
+          <folding>
+            <element signature="e#565#704#0" expanded="false" />
+            <element signature="e#1074#1292#0" expanded="false" />
+            <element signature="e#1293#1494#0" expanded="false" />
+            <element signature="e#1496#1999#0" expanded="false" />
+            <element signature="e#2000#2333#0" expanded="false" />
+            <element signature="e#2344#2356#0" expanded="true" />
+            <element signature="e#2335#4156#0" expanded="false" />
+            <element signature="e#4157#4892#0" expanded="false" />
+            <element signature="e#4893#5049#0" expanded="false" />
+            <element signature="e#5051#5161#0" expanded="false" />
+            <element signature="e#5163#5274#0" expanded="false" />
+            <element signature="e#5277#5392#0" expanded="false" />
+            <element signature="e#5393#5520#0" expanded="false" />
           </folding>
         </state>
       </provider>
